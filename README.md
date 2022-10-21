@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Cerealadvs's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerealadvs)](https://github.com/cerealadvs/github-readme-stats)
-![Cerealadvs's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerealadvs&count_private=true)
+![Cerealadvs's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerealadvs&show_icons=true)
+![Cerealadvs's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerealadvs&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerealadvs&layout=compact)](https://github.com/cerealadvs/github-readme-stats)
