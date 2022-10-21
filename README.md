@@ -8,15 +8,16 @@ My friends describe me as a Swiss army knife, always learning new skills. Curios
 - 👯 I’m looking to collaborate on web dev project
 
 
-Technologie Stack
+#####Technologie Stack
 
 ---
 
-My GitHub Stats
+<p style="text-align: center;">#####My GitHub Stats</p>
 
 ---
 
 ![Cerealadvs's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerealadvs&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerealadvs&theme=transparent)](https://github.com/cerealadvs/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerealadvs&layout=compact&theme=transparent)](https://github.com/cerealadvs/github-readme-stats)
 
 
