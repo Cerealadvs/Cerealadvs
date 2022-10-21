@@ -12,8 +12,15 @@ My friends describe me as a Swiss army knife, always learning new skills. Curios
 
 ---
 
-<h1 style="text-align: center;">Test</h1>
-Some content
+<h3 style="text-align: center;">Test</h3>
+
+<div class="myWrapper" markdown="1">
+# my markdown content
+
+this content is wrapped into a div with class "myWrapper"
+</div>
+
+
 
 #####My GitHub Stats
 
