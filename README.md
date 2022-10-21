@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 ### Hi there I'm Cereal, 👋
 *A Web Dvelopper in making*
 
@@ -32,7 +33,7 @@ My friends describe me as a Swiss army knife, always learning new skills. Curios
 ![Cerealadvs's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerealadvs&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerealadvs&layout=compact&theme=transparent)](https://github.com/cerealadvs/github-readme-stats)
 
-
+</div>
 
 <!--
 **Cerealadvs/Cerealadvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
