@@ -11,6 +11,8 @@ My friends describe me as a Swiss army knife, always learning new skills. Curios
 <h3 style="text-align: center;">Technologie Stack
 </h3>
 
+***
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -26,12 +28,6 @@ My friends describe me as a Swiss army knife, always learning new skills. Curios
 <h3 style="text-align: center;">My GitHub Stats</h3>
 
 ***
-
----
-
-___
-
-
 
 ![Cerealadvs's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerealadvs&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerealadvs&layout=compact&theme=transparent)](https://github.com/cerealadvs/github-readme-stats)
